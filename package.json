@@ -1,0 +1,18 @@
+{
+  "name": "m1-ejercicios-2",
+  "version": "1.0.0",
+  "description": "Ejercicios sobre JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --collectCoverage=false"
+  },
+  "devDependencies": {
+    "eslint": "^4.13.1",
+    "jest": "^22.0.3"
+  },
+  "author": "Upgrade Bootcamp",
+  "license": "ISC",
+  "jest": {
+    "testURL": "http://localhost/"
+  }
+}

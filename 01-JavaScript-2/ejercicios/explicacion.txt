@@ -1,0 +1,7 @@
+Escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente si comprendiste correctamente la teoría.
+
+	*	`for`
+	* `&&`, `||`, `!`
+
+Respuestas:
+
